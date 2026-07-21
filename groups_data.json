@@ -1,0 +1,20 @@
+{
+  "current_group": "sdfasdf",
+  "groups": {
+    "Default": [
+      "https://www.youtube.com/",
+      "https://www.google.com/",
+      "https://www.google.com/",
+      "https://www.google.com/"
+    ],
+    "group": [
+      "https://www.google.com/",
+      "https://www.google.com/search?hl=en-AU&source=hp&biw=&bih=&q=youtube.com&iflsig=ABILxe8AAAAAal8nCzsnoxFCx3jOGfOBvVyc7jNa2yUu&gbv=2&oq=youtube.com&gs_l=heirloom-hp.3..0i512i433i131j0i512j0i512i433i131j0i512i433j0i512i433i131j0i512l5.1565.3159.0.3664.11.11.0.0.0.0.191.1322.5j6.11.0....0...1.1.34.heirloom-hp..2.9.953.Q2Z4BnCICwM",
+      "https://www.google.com/search?hl=en-AU&source=hp&biw=&bih=&q=abc+news&iflsig=ABILxe8AAAAAal8nHA2dM4Vp9YLa895tm8dMKlbxmlBO&gbv=2&oq=abc+news&gs_l=heirloom-hp.3..0i512i433i131i457j0i512i433i402i131j0i512i402i650j0i512i433i131l5j0i512l2.1790.2650.0.2694.8.8.0.0.0.0.158.593.3j3.6.0....0...1.1.34.heirloom-hp..3.5.434.Eo3F-evhIW4"
+    ],
+    "sdfasdf": [
+      "https://www.google.com/",
+      "https://www.google.com/search?q=google+classroom"
+    ]
+  }
+}
