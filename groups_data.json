@@ -1,5 +1,5 @@
 {
-  "current_group": "sdfasdf",
+  "current_group": "Default",
   "groups": {
     "Default": [
       "https://www.youtube.com/",
@@ -14,7 +14,8 @@
     ],
     "sdfasdf": [
       "https://www.google.com/",
-      "https://www.google.com/search?q=google+classroom"
+      "https://www.google.com/search?q=google+classroom",
+      "https://www.google.com/"
     ]
   }
 }

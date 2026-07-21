@@ -1,8 +1,19 @@
 import json
 import os
+from pathlib import Path
 
-DEFAULT_URL = "https://www.google.com"
+# Get the directory where this script is located
+BASE_DIR = Path(__file__).parent
 
+# Custom new-tab page: page.html (you can edit this file)
+NEW_TAB_PAGE = BASE_DIR / "page.html"
+
+# Convert to a file:// URL
+if NEW_TAB_PAGE.exists():
+    DEFAULT_URL = NEW_TAB_PAGE.as_uri()   # file:///path/to/page.html
+else:
+    # Fallback to Google if page.html doesn't exist
+    DEFAULT_URL = "https://www.google.com"
 
 class GroupManager:
     def __init__(self, storage_file="groups_data.json"):
